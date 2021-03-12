@@ -54,7 +54,7 @@ a:hover {
 /* custom desing: using 99% class and 1% id */
 
 .card-white {
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.76);
   border-radius: 17px;
   box-shadow: 0px, 10px, 30px, rgba(0, 0, 0, .1);
   padding: 32px;  
